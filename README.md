@@ -1,4 +1,5 @@
 # Weather-Dashboard
+
 A weather dashboard displaying the 5 day forecast for multiple cities of the user's choice
 
 ## Description
@@ -7,8 +8,7 @@ This application uses the geocoding and 5 day weather forecast apis from OpenWea
 
 The deployed application can be found at:
 
-https://rishibajaj.github.io/WeatherDashboard/
-
+<https://rishibajaj.github.io/WeatherDashboard/>
 
 ## Usage
 
@@ -26,6 +26,6 @@ Please refer to the license in the repo.
 
 ## Credits
 
-Both apis used in this application are supplied by OpenWeather - https://openweathermap.org/
+Both apis used in this application are supplied by OpenWeather - <https://openweathermap.org/>
 
 ---
