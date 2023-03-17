@@ -1,0 +1,44 @@
+/*Color Theme*/
+:root {
+    --darkBlue: #154360;
+    --lightBlue: #5499C7;
+}
+
+#header {
+    background-image: linear-gradient(to right, var(--lightBlue) , var(--darkBlue));
+    margin-bottom: 20px;
+}
+
+#search-input {
+    width: 100%;
+    margin: 5px
+}
+
+#search-button {
+    width: 100%;
+    background-color: var(--lightBlue);
+    color: white;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+#today {
+    padding-bottom: 10px;
+}
+
+#todaysHeader {
+    padding-top: 10px;
+    padding-left: 15px;
+}
+
+.todaysPTag {
+    padding-left: 25px;
+}
+
+.dayCard {
+    width: 16%;
+    margin: 2%;
+    padding: 10px;
+    background-image: linear-gradient(var(--lightBlue) , var(--darkBlue));
+    color: antiquewhite;
+}
